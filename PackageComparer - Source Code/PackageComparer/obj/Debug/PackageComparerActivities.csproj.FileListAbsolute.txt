@@ -1,0 +1,6 @@
+C:\Users\10639731\source\repos\PackageComparer\PackageComparer\bin\Debug\PackageComparer.dll
+C:\Users\10639731\source\repos\PackageComparer\PackageComparer\bin\Debug\PackageComparer.pdb
+C:\Users\10639731\source\repos\PackageComparer\PackageComparer\obj\Debug\PackageComparerActivities.csproj.ResolveComReference.cache
+C:\Users\10639731\source\repos\PackageComparer\PackageComparer\obj\Debug\PackageComparerActivities.csproj.CoreCompileInputs.cache
+C:\Users\10639731\source\repos\PackageComparer\PackageComparer\obj\Debug\PackageComparer.dll
+C:\Users\10639731\source\repos\PackageComparer\PackageComparer\obj\Debug\PackageComparer.pdb

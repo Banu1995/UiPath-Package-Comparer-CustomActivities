@@ -1,0 +1,12 @@
+C:\Users\10639731\Desktop\Hackahton_Upload\Folder Structure\PackageComparer\PackageComparer\bin\Release\PackageComparer.dll
+C:\Users\10639731\Desktop\Hackahton_Upload\Folder Structure\PackageComparer\PackageComparer\bin\Release\PackageComparer.pdb
+C:\Users\10639731\Desktop\Hackahton_Upload\Folder Structure\PackageComparer\PackageComparer\obj\Release\PackageComparerActivities.csproj.ResolveComReference.cache
+C:\Users\10639731\Desktop\Hackahton_Upload\Folder Structure\PackageComparer\PackageComparer\obj\Release\PackageComparerActivities.csproj.CoreCompileInputs.cache
+C:\Users\10639731\Desktop\Hackahton_Upload\Folder Structure\PackageComparer\PackageComparer\obj\Release\PackageComparer.dll
+C:\Users\10639731\Desktop\Hackahton_Upload\Folder Structure\PackageComparer\PackageComparer\obj\Release\PackageComparer.pdb
+C:\Users\10639731\Desktop\Folder Structure\PackageComparer - Source Code\PackageComparer\bin\Release\PackageComparer.dll
+C:\Users\10639731\Desktop\Folder Structure\PackageComparer - Source Code\PackageComparer\bin\Release\PackageComparer.pdb
+C:\Users\10639731\Desktop\Folder Structure\PackageComparer - Source Code\PackageComparer\obj\Release\PackageComparerActivities.csproj.ResolveComReference.cache
+C:\Users\10639731\Desktop\Folder Structure\PackageComparer - Source Code\PackageComparer\obj\Release\PackageComparerActivities.csproj.CoreCompileInputs.cache
+C:\Users\10639731\Desktop\Folder Structure\PackageComparer - Source Code\PackageComparer\obj\Release\PackageComparer.dll
+C:\Users\10639731\Desktop\Folder Structure\PackageComparer - Source Code\PackageComparer\obj\Release\PackageComparer.pdb
